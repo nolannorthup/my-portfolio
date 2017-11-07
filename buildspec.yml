@@ -8,11 +8,10 @@ phases:
   build:
     commands:
       - npm run webpack
-
 artifacts:
   files:
     - index.html
     - favicon.ico
-    - styles/*
+    - styles/main.css
     - images/*
-    - dist/dist.js
+    - dist/bundle.js
