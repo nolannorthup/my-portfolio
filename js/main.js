@@ -13,7 +13,7 @@ const myWork = [
                 identification, positioning, and utilization of modern
                 cloud technologies, resources, and associated concepts
                 and decision-making criteria."`,
-      'src': "images/example1.png",
+      'src': "images/cloud_technology.png",
       'comment': ""
     }
   },
@@ -26,7 +26,7 @@ const myWork = [
                 specialized certifications or has met minimum CCP
                 certification qualifications by demonstrating proficiency
                 in cloud computing fundamentals and one additional area."`,
-      'src': "images/Arcitura_Logos/cloud_professional.png",
+      'src': "images/cloud_professional.png",
       'comment': ""
     }
   },
