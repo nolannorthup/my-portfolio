@@ -13,7 +13,7 @@ const myWork = [
                 identification, positioning, and utilization of modern
                 cloud technologies, resources, and associated concepts
                 and decision-making criteria."`,
-      'src': "images/example.png",
+      'src': "images/example1.png",
       'comment': ""
     }
   },
