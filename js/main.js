@@ -13,7 +13,7 @@ const myWork = [
                 identification, positioning, and utilization of modern
                 cloud technologies, resources, and associated concepts
                 and decision-making criteria."`,
-      'src': "images/Arcitura_Logos/cloud_technology.png",
+      'src': "images/example.png",
       'comment': ""
     }
   },
@@ -24,7 +24,7 @@ const myWork = [
     'image': {
       'desc': `"A Certified Cloud Professional has completed one or more
                 specialized certifications or has met minimum CCP
-                certification qualifications by demonstrating proficiency 
+                certification qualifications by demonstrating proficiency
                 in cloud computing fundamentals and one additional area."`,
       'src': "images/Arcitura_Logos/cloud_professional.png",
       'comment': ""
