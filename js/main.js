@@ -4,6 +4,16 @@ import ExampleWork from './example-work';
 
 const myWork = [
   {
+    'title': "My Portfolio Architecture",
+    'href': "https://www.lucidchart.com/documents/view/ecf0b916-7c54-4a29-ae7c-abf44ee3772f",
+    'desc': "My Portfolio Architecture on Lucidchart.com",
+    'image': {
+      'desc': `""`,
+      'src': "images/react.jpeg",
+      'comment': ""
+    }
+  },
+  {
     'title': "Certified Cloud Technology Professional",
     'href': "AITCP Transcript_110320_20171108.pdf",
     'desc': "Certified Cloud Technology Professional",
@@ -38,7 +48,7 @@ const myWork = [
       'desc': `"The AWS Certified Solutions Architect – Associate exam
                 is intended for individuals with experience designing
                 distributed applications and systems on the AWS platform."`,
-      'src': "https://www.certmetrics.com/amazon/Telerik.Web.UI.WebResource.axd?imgid=900fec4caf9e4b5798c2cb1d70492f3c&type=rbi",
+      'src': "images/",
       'comment': ""
     }
   },
