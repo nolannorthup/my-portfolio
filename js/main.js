@@ -15,7 +15,7 @@ const myWork = [
   },
   {
     'title': "Certified Cloud Technology Professional",
-    'href': "AITCP_Transcript_110320_20171108.pdf",
+    'href': "/AITCP_Transcript_110320_20171108.pdf",
     'desc': "Certified Cloud Technology Professional",
     'image': {
       'desc': `"A Certified Cloud Technology Professional has obtained
@@ -29,7 +29,7 @@ const myWork = [
   },
   {
     'title': "Certified Cloud Professional",
-    'href': "AITCP_Transcript_110320_20171108.pdf",
+    'href': "/AITCP_Transcript_110320_20171108.pdf",
     'desc': "Certified Cloud Professional",
     'image': {
       'desc': `"A Certified Cloud Professional has completed one or more
