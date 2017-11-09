@@ -23,7 +23,7 @@ const myWork = [
                 identification, positioning, and utilization of modern
                 cloud technologies, resources, and associated concepts
                 and decision-making criteria."`,
-      'src': "images/cloud_technology.png",
+      'src': "images/cloud.jpg",
       'comment': ""
     }
   },
@@ -36,7 +36,7 @@ const myWork = [
                 specialized certifications or has met minimum CCP
                 certification qualifications by demonstrating proficiency
                 in cloud computing fundamentals and one additional area."`,
-      'src': "images/cloud_professional.png",
+      'src': "images/cloud.jpg",
       'comment': ""
     }
   },
@@ -48,7 +48,7 @@ const myWork = [
       'desc': `"The AWS Certified Solutions Architect – Associate exam
                 is intended for individuals with experience designing
                 distributed applications and systems on the AWS platform."`,
-      'src': "images/",
+      'src': "images/arch.jpeg",
       'comment': ""
     }
   },
@@ -60,7 +60,7 @@ const myWork = [
       'desc': `"The AWS Certified SysOps Administrator – Associate
                 exam validates technical expertise in deployment, management,
                  and operations on the AWS platform."`,
-      'src': "https://www.certmetrics.com/amazon/Telerik.Web.UI.WebResource.axd?imgid=eaee3cbd75c74c9299746a32f4d33aa8&type=rbi",
+      'src': "images/ops.jpg",
       'comment': ""
     }
   },
@@ -72,7 +72,7 @@ const myWork = [
       'desc': `"The AWS Certified Developer – Associate exam validates
                 technical expertise in developing and maintaining applications
                  on the AWS platform."`,
-      'src': "https://www.certmetrics.com/amazon/Telerik.Web.UI.WebResource.axd?imgid=eaee3cbd75c74c9299746a32f4d33aa8&type=rbi",
+      'src': "images/dev.jpeg",
       'comment': ""
     }
   }
