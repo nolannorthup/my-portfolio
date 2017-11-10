@@ -15,7 +15,7 @@ const myWork = [
   },
   {
     'title': "Certified Cloud Technology Professional",
-    'href': "",
+    'href': "transcript.pdf",
     'desc': `"A Certified Cloud Technology Professional has obtained
               proven knowledge and capabilities pertaining to the
               identification, positioning, and utilization of modern
@@ -24,12 +24,12 @@ const myWork = [
     'image': {
       'desc': "Certified Cloud Technology Professional",
       'src': "images/cloud.jpg",
-      'comment': "transcript.pdf"
+      'comment': ""
     }
   },
   {
     'title': "Certified Cloud Professional",
-    'href': "",
+    'href': "transcript.pdf",
     'desc': `"A Certified Cloud Professional has completed one or more
               specialized certifications or has met minimum CCP
               certification qualifications by demonstrating proficiency
@@ -37,7 +37,7 @@ const myWork = [
     'image': {
       'desc': "Certified Cloud Professional",
       'src': "images/cloud.jpg",
-      'comment': "transcript.pdf"
+      'comment': ""
     }
   },
   {
