@@ -24,7 +24,7 @@ const myWork = [
     'image': {
       'desc': "Certified Cloud Technology Professional",
       'src': "images/cloud.jpg",
-      'comment': ""
+      'comment': "transcript.pdf"
     }
   },
   {
@@ -37,7 +37,7 @@ const myWork = [
     'image': {
       'desc': "Certified Cloud Professional",
       'src': "images/cloud.jpg",
-      'comment': ""
+      'comment': "transcript.pdf"
     }
   },
   {
