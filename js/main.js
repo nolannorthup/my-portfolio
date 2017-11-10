@@ -73,6 +73,16 @@ const myWork = [
     }
   },
   {
+    'title': "IT Humor",
+    'href': "http://prezi.com/ha1alhiuujll/?utm_campaign=share&utm_medium=copy",
+    'desc': `"Sometimes you to laugh or you'll cry!"`,
+    'image': {
+      'desc': "",
+      'src': "images/drama.jpeg",
+      'comment': ""
+    }
+  },
+  {
     'title': "AWS Certified Solutions Architect - Associate",
     'href': "https://www.certmetrics.com/amazon/public/badge.aspx?i=1&t=c&d=2016-12-30&ci=AWS00206559",
     'desc': `"The AWS Certified Solutions Architect – Associate exam
