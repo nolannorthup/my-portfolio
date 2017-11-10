@@ -45,8 +45,30 @@ const myWork = [
     'href': "http://prezi.com/q305dr6tbr0j/?utm_campaign=share&utm_medium=copy",
     'desc': "SOA Governance Workshop Prezi",
     'image': {
-      'desc': "",
+      'desc': "Governance",
       'src': "images/gov.jpeg",
+      'comment': ""
+    }
+  },
+  {
+    'title': "Checklists",
+    'href': "http://prezi.com/q305dr6tbr0j/?utm_campaign=share&utm_medium=copy",
+    'desc': `"Checklist is the most common methodology to run and manage a
+              complex system, route issues to specialized resources  and
+              reduce human error.  Complex engineered systems such as an
+              airplane is based on checklists, whether it is take off,
+              landing or in-flight issue resolution the running and
+              management of an airplane is based on checklists.
+              Human fatigue, knowledge, inexperience, and comprehensive
+              analysis are all factors which lead to human error while running
+              and managing complex systems, knowing when to escalate issues
+              compounds emergency situations.  To further understand how
+              checklists have assisted management of complex systems and 
+              mitigated human error further reading can be done “THE CHECKLIST
+              MANIFESTO- HOW TO GET THINGS RIGHT” by Dr. Atul Gawande."`,
+    'image': {
+      'desc': "Airplane cockpit",
+      'src': "images/checklist.jpeg",
       'comment': ""
     }
   },
