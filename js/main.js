@@ -15,7 +15,7 @@ const myWork = [
   },
   {
     'title': "Certified Cloud Technology Professional",
-    'href': "/AITCP_Transcript_110320_20171108.pdf",
+    'href': "/AITCPTranscript.pdf",
     'desc': `"A Certified Cloud Technology Professional has obtained
               proven knowledge and capabilities pertaining to the
               identification, positioning, and utilization of modern
@@ -29,7 +29,7 @@ const myWork = [
   },
   {
     'title': "Certified Cloud Professional",
-    'href': "/AITCP_Transcript_110320_20171108.pdf",
+    'href': "/AITCPTranscript.pdf",
     'desc': `"A Certified Cloud Professional has completed one or more
               specialized certifications or has met minimum CCP
               certification qualifications by demonstrating proficiency
@@ -52,7 +52,7 @@ const myWork = [
   },
   {
     'title': "Checklists",
-    'href': "http://prezi.com/q305dr6tbr0j/?utm_campaign=share&utm_medium=copy",
+    'href': "http://prezi.com/m-0fp-twytwv/?utm_campaign=share&utm_medium=copy&rc=ex0share",
     'desc': `"Checklist is the most common methodology to run and manage a
               complex system, route issues to specialized resources  and
               reduce human error.  Complex engineered systems such as an
@@ -63,7 +63,7 @@ const myWork = [
               analysis are all factors which lead to human error while running
               and managing complex systems, knowing when to escalate issues
               compounds emergency situations.  To further understand how
-              checklists have assisted management of complex systems and 
+              checklists have assisted management of complex systems and
               mitigated human error further reading can be done “THE CHECKLIST
               MANIFESTO- HOW TO GET THINGS RIGHT” by Dr. Atul Gawande."`,
     'image': {
