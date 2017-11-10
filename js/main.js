@@ -4,7 +4,7 @@ import ExampleWork from './example-work';
 
 const myWork = [
   {
-    'title': "My Portfolio Architectures",
+    'title': "My Portfolio Architecture",
     'href': "https://www.lucidchart.com/documents/view/ecf0b916-7c54-4a29-ae7c-abf44ee3772f",
     'desc': "My Portfolio Architecture on Lucidchart.com",
     'image': {
