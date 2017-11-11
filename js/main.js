@@ -78,7 +78,7 @@ const myWork = [
     'desc': `"Sometimes you to laugh or you'll cry!"`,
     'image': {
       'desc': "",
-      'src': "images/drama.jpeg",
+      'src': "images/drama.png",
       'comment': ""
     }
   },
